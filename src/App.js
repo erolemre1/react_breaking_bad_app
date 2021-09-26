@@ -29,19 +29,19 @@ function App() {
   return (
     <Router>
       <Navbar color="dark" light expand="md" className="mb-3">
-        <NavbarBrand className="text-white mx-5" href="/">Breaking</NavbarBrand>
+        <NavbarBrand className="text-white mx-5  text-decoration-none" href="/">Breaking</NavbarBrand>
         <NavbarToggler onClick={toggle} />
         <Collapse isOpen={isOpen} navbar>
           <Nav className="mr-auto" navbar>
             <ul className="d-flex flex-column flex-md-row">
               <li>
-                <Link className="text-white" to="/">Characters</Link>
+                <Link className="text-white text-decoration-none" to="/">Characters</Link>
               </li>
               <li>
-                <Link className="text-white" to="/quotes">Quotes</Link>
+                <Link className="text-white text-decoration-none" to="/quotes">Quotes</Link>
               </li>
               <li>
-                <Link className="text-white" to="/episodes">Episodes</Link>
+                <Link className="text-white text-decoration-none" to="/episodes">Episodes</Link>
               </li>
             </ul>
           </Nav>
