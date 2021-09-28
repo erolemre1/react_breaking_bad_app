@@ -29,7 +29,7 @@ function App() {
   return (
     <Router>
       <Navbar color="dark" light expand="md" className="mb-3">
-        <NavbarBrand className="text-white mx-5  text-decoration-none" href="/">Breaking</NavbarBrand>
+        <NavbarBrand className="text-white mx-5  text-decoration-none" href="/">Breaking Bad</NavbarBrand>
         <NavbarToggler onClick={toggle} />
         <Collapse isOpen={isOpen} navbar>
           <Nav className="mr-auto" navbar>
