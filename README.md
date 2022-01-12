@@ -1,5 +1,4 @@
 # Breaking Bad App
-[Commons Confuluence Readme](https://emlakjetjira.atlassian.net/wiki/spaces/IT/pages/889323533/Commons+Versiyon+Y+kseltme+ve+Yay+nlama)
 
 ## Desktop View
 ![web](https://github.com/erolemre1/react_breaking_bad_app/blob/main/BREAK%C4%B0NG-WEB.gif)
